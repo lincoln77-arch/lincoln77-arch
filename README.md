@@ -23,10 +23,8 @@ Usar este espaço para estudar, praticar programação e acompanhar minha evolu�
 
 ### 📬 Contato
 
-Linkedin:
 https://www.linkedin.com/in/lincoln-lima-89414596
 
-Gmail:
 mailto:Lincoln77@gmail.com
 
 
